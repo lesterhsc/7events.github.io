@@ -10365,14 +10365,14 @@ body {
 .contact-section .social a:active {
   color: #fff;
 }
-#trailler
+#trailer
 {
 	padding-bottom: 4rem;
 	padding-top: 8rem;
 	background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 
-#trailler video
+#trailer video
 {
   width: 100%;
   height: auto;
